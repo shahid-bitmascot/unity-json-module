@@ -1,5 +1,5 @@
 {
-  "debugMode": false,
+  "debugMode": true,
   "wowThreshold": 40,
   "rateThreshold": 30,
   "noInterruptThreshold": 70,
